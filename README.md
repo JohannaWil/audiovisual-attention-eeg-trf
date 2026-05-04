@@ -1,6 +1,8 @@
 # Wearable EEG Attention Tracking across Dynamic Listening Scenarios
 
-![Visual Abstract](article/figures/visualAbstract.pdf)
+<p align="center">
+  <img src="article/figures/visualAbstract.png" width="700">
+</p>
 
 Everyday communication is dynamic and multisensory — involving shifting attention, overlapping speech and visual cues. Yet most neural attention tracking studies are still limited to highly controlled lab settings. This work introduces a novel dataset from 24 normal-hearing participants recorded with a wearable EEG system (44 scalp electrodes + 20 cEEGrid in-ear electrodes) across three audiovisual conditions: **sustained attention** to a single talker in a two-talker environment, **attention switching** between two talkers, and **unscripted two-talker conversations** with a competing side talker.
 
