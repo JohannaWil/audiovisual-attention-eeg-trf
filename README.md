@@ -168,7 +168,7 @@ Run the three notebooks in the following order:
 
 If you use this code or dataset, please cite:
 
-> *[Manuscript in preparation — citation will be added upon publication.]*
+> Wilroth, J., O. Keding, M. A. Skoglund, M. Sandsten, M. Enqvist, and E. Alickovic. 2026. “Neural Tracking of Sustained Attention, Attention Switching, and Natural Conversation in Audiovisual Environments Using Wearable EEG.” *European Journal of Neuroscience* 63, no. 9: e70538. https://doi.org/10.1111/ejn.70538
 
 ---
 
